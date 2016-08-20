@@ -1,2 +1,2 @@
-1. Run LoadChatClient for Chat Client.
-2. Run LoadChatServer for chat server.
+1. Run chatApplication.client.chatClient.LoadChatClient for Chat Client.
+2. Run chatApplication.server.chatServer.LoadChatServer for chat server.
