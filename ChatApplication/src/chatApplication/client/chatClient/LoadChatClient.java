@@ -7,5 +7,4 @@ public class LoadChatClient {
 	public static void main(String[] args) {		
 		new Connect().setVisible(true);
 	}
-	
 }
